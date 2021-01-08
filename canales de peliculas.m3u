@@ -1,0 +1,129 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX" tvg-logo="https://dl.dropboxusercontent.com/s/uvedqmmxtdeaxt5/FOX.jpg?" group-title="ARGENTINA SD",*ARG_SD:FOX
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74436
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX LIFE" tvg-logo="https://dl.dropboxusercontent.com/s/bzd4vx4sonczwgy/FOXLIFE.png?" group-title="ARGENTINA SD",*ARG_SD:FOX LIFE
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74435
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX NEWS" tvg-logo="https://dl.dropboxusercontent.com/s/u0hu6qrrrw88fmn/FOXNEWS.png?dl=0" group-title="ARGENTINA SD",*ARG_SD:FOX NEWS
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74434
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX PREMIUM ACTION" tvg-logo="https://dl.dropboxusercontent.com/s/cwm3mu4i8qr22hq/FOXACTION.png?dl=0" group-title="ARGENTINA SD",*ARG_SD:FOX PREMIUM ACTION
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74433
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX PREMIUM CINEMA" tvg-logo="https://dl.dropboxusercontent.com/s/cw4vt41xkmqkwnk/FOXPREMIUMCINEMA.png?" group-title="ARGENTINA SD",*ARG_SD:FOX PREMIUM CINEMA
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74432
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX PREMIUM CLASSICS" tvg-logo="https://dl.dropboxusercontent.com/s/25x6coasomycs2p/FOXPREMIUMCLASICCS.png?" group-title="ARGENTINA SD",*ARG_SD:FOX PREMIUM CLASSICS
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74431
+
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX PREMIUM COMEDY DUAL AUDIO" tvg-logo="https://dl.dropboxusercontent.com/s/sqvhg48sg7d2rjh/FOXCOMEDY.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:FOX PREMIUM COMEDY DUAL AUDIO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74430
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX PREMIUM FAMILY" tvg-logo="https://dl.dropboxusercontent.com/s/za4y1a8t0p4up1q/FOXFAMILY.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:FOX PREMIUM FAMILY
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74429
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX PREMIUM FAMILY OESTE" tvg-logo="https://dl.dropboxusercontent.com/s/za4y1a8t0p4up1q/FOXFAMILY.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:FOX PREMIUM FAMILY OESTE
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74428
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX PREMIUM MOVIES" tvg-logo="https://dl.dropboxusercontent.com/s/znbz0fp40wszpkm/FOXPREMIUMMOVIES.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:FOX PREMIUM MOVIES
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74427
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX PREMIUM SERIES" tvg-logo="https://dl.dropboxusercontent.com/s/6kwcbtvkqfj7tid/FOXSERIES.png?" group-title="ARGENTINA SD",*ARG_SD:FOX PREMIUM SERIES
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74426
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FOX PREMIUM SERIES OESTE" tvg-logo="https://dl.dropboxusercontent.com/s/6kwcbtvkqfj7tid/FOXSERIES.png?" group-title="ARGENTINA SD",*ARG_SD:FOX PREMIUM SERIES OESTE
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74425
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:FX" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/353.png" group-title="ARGENTINA SD",*ARG_SD:FX
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74421
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:H2" tvg-logo="https://dl.dropboxusercontent.com/s/ekeml24xvoh5qu2/H2.jpg?" group-title="ARGENTINA SD",*ARG_SD:H2
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74415
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:HBO 2 DUAL AUDIO" tvg-logo="https://dl.dropboxusercontent.com/s/z8mm2i2lx3rsvzq/HBO2.png?dl=0" group-title="ARGENTINA SD",*ARG_SD:HBO 2 DUAL AUDIO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74413
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:HBO DUAL AUDIO" tvg-logo="https://dl.dropboxusercontent.com/s/4d6ydybm5h58bdl/HBO.jpeg?dl=0" group-title="ARGENTINA SD",*ARG_SD:HBO DUAL AUDIO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74414
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:HBO FAMILY DUAL AUDIO" tvg-logo="https://dl.dropboxusercontent.com/s/1adwrcveyvmce4r/HBOFAMILY.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:HBO FAMILY DUAL AUDIO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74412
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:HBO PLUS DUAL AUDIO" tvg-logo="https://dl.dropboxusercontent.com/s/32ruwsyqr4suz9h/HBOPLUS.png?dl=0" group-title="ARGENTINA SD",*ARG_SD:HBO PLUS DUAL AUDIO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74411
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:HBO SIGNATURE" tvg-logo="https://dl.dropboxusercontent.com/s/1mhk92duj6rg0zi/HBOSIGNATURE.png?dl=0" group-title="ARGENTINA SD",*ARG_SD:HBO SIGNATURE
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74410
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:HBO MUNDI" tvg-logo="https://dl.dropboxusercontent.com/s/yk9e57h2m03756q/HBOMUNDI.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:HBO MUNDI
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74402
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:I-SAT" tvg-logo="https://dl.dropboxusercontent.com/s/zq29llz1fb297z8/ISAT.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:I-SAT
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74406
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:HBO EXTREME" tvg-logo="https://dl.dropboxusercontent.com/s/evhz5r2er2wbv15/HBOXTREME.jpg?" group-title="ARGENTINA SD",*ARG_SD:HBO EXTREME
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74401
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:HBO POP" tvg-logo="https://dl.dropboxusercontent.com/s/d4qdqaei7e09nc5/HBOPOP.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:HBO POP
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74400
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:PARAMOUNT" tvg-logo="https://dl.dropboxusercontent.com/s/0mv67zdi91iqwdl/PARAMOUNTCHANNEL.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:PARAMOUNT
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74388
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:SONY" tvg-logo="https://dl.dropboxusercontent.com/s/gf9mebsnzf0ny4m/SONY.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:SONY
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74382
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:SPACE" tvg-logo="https://dl.dropboxusercontent.com/s/8cgf4fid18x8dtv/SPACE.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:SPACE
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74381
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:STUDIO UNIVERSAL" tvg-logo="https://dl.dropboxusercontent.com/s/it1n3chgo35vmf8/STUDIOUNIVERSAL.jpg?dl=0" group-title="ARGENTINA SD",*ARG_SD:STUDIO UNIVERSAL
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74380
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:SYFY" tvg-logo="https://dl.dropboxusercontent.com/s/f823v0g9y1awgos/SYFY.jpg?" group-title="ARGENTINA SD",*ARG_SD:SYFY
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74379
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:TNT SERIES" tvg-logo="https://dl.dropboxusercontent.com/s/p01uz795id3g754/TNTSERIES.jpg?" group-title="ARGENTINA SD",*ARG_SD:TNT SERIES
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74369
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:WARNER" tvg-logo="https://dl.dropboxusercontent.com/s/504a0k4y5an1b23/WARNER.jpg?" group-title="ARGENTINA SD",*ARG_SD:WARNER
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74358
+
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="*ARG_HD:A&E DUAL AUDIO" tvg-logo="https://dl.dropboxusercontent.com/s/gyofy4iy6fjzkph/A%26E.jpg?dl=0" group-title="ARGENTINA HD",*ARG_HD:A&E DUAL AUDIO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55896
+
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="*ARG_HD:AXN" tvg-logo="https://dl.dropboxusercontent.com/s/h4yrev0pqukkg8r/AXN.png?" group-title="ARGENTINA HD",*ARG_HD:AXN
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55891
+
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="*ARG_HD:CANAL 9" tvg-logo="https://dl.dropboxusercontent.com/s/vvf6xd62w4xe123/CANAL9.jpg?" group-title="ARGENTINA HD",*ARG_HD:CANAL 9
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55884
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:CINECANAL" tvg-logo="https://dl.dropboxusercontent.com/s/m1t8zk3wug81row/CINECANAL.png?dl=0" group-title="ARGENTINA HD",*ARG_HD:CINECANAL
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55879
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:CINEMAX" tvg-logo="https://dl.dropboxusercontent.com/s/yb4ll64d39gtgzp/CINEMAX.png?" group-title="ARGENTINA HD",*ARG_HD:CINEMAX
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55878
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:HBO PLUS DUAL AUDIO" tvg-logo="https://dl.dropboxusercontent.com/s/32ruwsyqr4suz9h/HBOPLUS.png?dl=0" group-title="ARGENTINA HD",*ARG_HD:HBO PLUS DUAL AUDIO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55831
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:HBO SIGNATURE" tvg-logo="https://dl.dropboxusercontent.com/s/1mhk92duj6rg0zi/HBOSIGNATURE.png?dl=0" group-title="ARGENTINA HD",*ARG_HD:HBO SIGNATURE
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55830
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:SONY" tvg-logo="https://dl.dropboxusercontent.com/s/gf9mebsnzf0ny4m/SONY.jpg?dl=0" group-title="ARGENTINA HD",*ARG_HD:SONY
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55802
+
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="*ARG_HD:SPACE" tvg-logo="https://dl.dropboxusercontent.com/s/8cgf4fid18x8dtv/SPACE.jpg?dl=0" group-title="ARGENTINA HD",*ARG_HD:SPACE
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55801
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:STUDIO UNIVERSAL" tvg-logo="https://dl.dropboxusercontent.com/s/it1n3chgo35vmf8/STUDIOUNIVERSAL.jpg?dl=0" group-title="ARGENTINA HD",*ARG_HD:STUDIO UNIVERSAL
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55800
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:SYFY" tvg-logo="https://dl.dropboxusercontent.com/s/f823v0g9y1awgos/SYFY.jpg?" group-title="ARGENTINA HD",*ARG_HD:SYFY
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55799
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_HD:WARNER" tvg-logo="https://dl.dropboxusercontent.com/s/504a0k4y5an1b23/WARNER.jpg?" group-title="ARGENTINA HD",*ARG_HD:WARNER
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/55777
+

@@ -1,0 +1,270 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_A&E HD" tvg-logo="https://dl.dropboxusercontent.com/s/gyofy4iy6fjzkph/A%26E.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_A&E HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1954
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="*PEL_AMC_HD" tvg-logo="https://dl.dropboxusercontent.com/s/6mhbh5cjemt2ivh/AMC.jpeg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_AMC_HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1924
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_CINE DINAMITA" tvg-logo="https://dl.dropboxusercontent.com/s/80lvtv71dsgzzv2/CINEDINAMITA.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_CINE DINAMITA
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1602
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_CINE LATINO" tvg-logo="https://dl.dropboxusercontent.com/s/2ewkil6xsajdt8t/CINELATINO.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_CINE LATINO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1601
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_CINECANAL  HD" tvg-logo="https://dl.dropboxusercontent.com/s/m1t8zk3wug81row/CINECANAL.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_CINECANAL  HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1909
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_CINECANAL SD." tvg-logo="https://dl.dropboxusercontent.com/s/m1t8zk3wug81row/CINECANAL.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_CINECANAL SD.
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1804
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="*PEL_CINEMAX" tvg-logo="https://dl.dropboxusercontent.com/s/yb4ll64d39gtgzp/CINEMAX.png?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_CINEMAX
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1515
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_CINEMAX ACTION HD" tvg-logo="https://dl.dropboxusercontent.com/s/a5i26hfe9ohpuml/CINEMAXACTION.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_CINEMAX ACTION HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2094
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_CINEMAX HD" tvg-logo="https://dl.dropboxusercontent.com/s/yb4ll64d39gtgzp/CINEMAX.png?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_CINEMAX HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1947
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_CINEMAX HD 1080 P" tvg-logo="https://dl.dropboxusercontent.com/s/yb4ll64d39gtgzp/CINEMAX.png?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_CINEMAX HD 1080 P
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2092
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_CLARO CINEMA." tvg-logo="https://dl.dropboxusercontent.com/s/acdn4hyxyn2hvb7/CLAROCINEMA.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_CLARO CINEMA.
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1800
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_COMEDY CENTRAL" tvg-logo="https://dl.dropboxusercontent.com/s/elxrp5iu8f2q590/COMEDYCENTRAL.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_COMEDY CENTRAL
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1605
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FILM&ARTS" tvg-logo="https://dl.dropboxusercontent.com/s/wg25hilku24n107/FILMARTS.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FILM&ARTS
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1727
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX ACTION HD " tvg-logo="https://dl.dropboxusercontent.com/s/cwm3mu4i8qr22hq/FOXACTION.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX ACTION HD 
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2001
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX ACTION SD" tvg-logo="https://dl.dropboxusercontent.com/s/cwm3mu4i8qr22hq/FOXACTION.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX ACTION SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1504
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX CINEMA" tvg-logo="https://dl.dropboxusercontent.com/s/cw4vt41xkmqkwnk/FOXPREMIUMCINEMA.png?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX CINEMA
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1499
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX CINEMA HD" tvg-logo="https://dl.dropboxusercontent.com/s/cw4vt41xkmqkwnk/FOXPREMIUMCINEMA.png?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX CINEMA HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2074
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX CLASSIC" tvg-logo="https://dl.dropboxusercontent.com/s/elo4vdw73c9dcqc/FOXCLASICC.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX CLASSIC
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1493
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX COMEDY ." tvg-logo="https://dl.dropboxusercontent.com/s/sqvhg48sg7d2rjh/FOXCOMEDY.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX COMEDY .
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2131
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX FAMILY SD" tvg-logo="https://dl.dropboxusercontent.com/s/za4y1a8t0p4up1q/FOXFAMILY.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX FAMILY SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1585
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX MOVIES HD" tvg-logo="https://dl.dropboxusercontent.com/s/znbz0fp40wszpkm/FOXPREMIUMMOVIES.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX MOVIES HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1985
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX MOVIES SD" tvg-logo="https://dl.dropboxusercontent.com/s/znbz0fp40wszpkm/FOXPREMIUMMOVIES.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX MOVIES SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1503
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FOX PREMIUM ACTION" tvg-logo="https://dl.dropboxusercontent.com/s/cwm3mu4i8qr22hq/FOXACTION.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FOX PREMIUM ACTION
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1881
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FX MOVIE HD" tvg-logo="https://dl.dropboxusercontent.com/s/1pr9q8d65g23ti0/FXM.jpg?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FX MOVIE HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2029
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FX MOVIES" tvg-logo="https://dl.dropboxusercontent.com/s/1pr9q8d65g23ti0/FXM.jpg?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FX MOVIES
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1874
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_FXM" tvg-logo="https://dl.dropboxusercontent.com/s/1pr9q8d65g23ti0/FXM.jpg?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_FXM
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1530
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_GOLDEN HD" tvg-logo="https://dl.dropboxusercontent.com/s/01deu0yq1sfheid/GOLDEN.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_GOLDEN HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2057
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_GOLDEN PREMIER HD" tvg-logo="https://dl.dropboxusercontent.com/s/gaui5im8pczy335/GOLDENPREMIER.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_GOLDEN PREMIER HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2056
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="*PEL_HBO" tvg-logo="https://dl.dropboxusercontent.com/s/4d6ydybm5h58bdl/HBO.jpeg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1511
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO 2 HD" tvg-logo="https://dl.dropboxusercontent.com/s/z8mm2i2lx3rsvzq/HBO2.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO 2 HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1963
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO FAMILY HD" tvg-logo="https://dl.dropboxusercontent.com/s/v6oqxjkfno1evh6/HBOFAMILY.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO FAMILY HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2045
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO FAMILY SD" tvg-logo="https://dl.dropboxusercontent.com/s/1adwrcveyvmce4r/HBOFAMILY.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO FAMILY SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1509
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO DUAL AUDIO HD" tvg-logo="https://dl.dropboxusercontent.com/s/4d6ydybm5h58bdl/HBO.jpeg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO DUAL AUDIO HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1928
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO PLUS HD LATINO" tvg-logo="https://dl.dropboxusercontent.com/s/32ruwsyqr4suz9h/HBOPLUS.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO PLUS HD LATINO
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1962
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO SIGNATURE HD" tvg-logo="https://dl.dropboxusercontent.com/s/1mhk92duj6rg0zi/HBOSIGNATURE.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO SIGNATURE HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1961
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO SIGNATURE WEST" tvg-logo="http://2.bp.blogspot.com/-sp_EMf3ktrE/UY_uDiSmmVI/AAAAAAAAE2k/1ry4BQaVfJo/s1600/HBO-Signature-hd-na-sky.jpg" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO SIGNATURE WEST
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2087
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HD  HBO Plus HD_1080P" tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/5/51/HBOPLUS.png/revision/latest?cb=20130717021305&path-prefix=es" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HD  HBO Plus HD_1080P
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2089
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HD  RetroPlex HD_1080P" tvg-logo="https://dl.dropboxusercontent.com/s/ab7qf9gh68f2d1i/RETROPLEX.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HD  RetroPlex HD_1080P
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2178
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_I-SAT" tvg-logo="https://dl.dropboxusercontent.com/s/zq29llz1fb297z8/ISAT.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_I-SAT
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1687
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO EXTREME" tvg-logo="https://dl.dropboxusercontent.com/s/evhz5r2er2wbv15/HBOXTREME.jpg?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO EXTREME
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1544
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO EXTREME SUR" tvg-logo="https://dl.dropboxusercontent.com/s/evhz5r2er2wbv15/HBOXTREME.jpg?" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO EXTREME SUR
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1940
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_HBO POP" tvg-logo="https://dl.dropboxusercontent.com/s/d4qdqaei7e09nc5/HBOPOP.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_HBO POP
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1939
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_PANICO HD" tvg-logo="https://dl.dropboxusercontent.com/s/tmb4j6o3706udbh/PANICO.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_PANICO HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74054
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_PARAMOUNT CHANNEL HD" tvg-logo="https://dl.dropboxusercontent.com/s/0mv67zdi91iqwdl/PARAMOUNTCHANNEL.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_PARAMOUNT CHANNEL HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1913
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_SONY HD." tvg-logo="https://dl.dropboxusercontent.com/s/gf9mebsnzf0ny4m/SONY.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_SONY HD.
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2079
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_SPACE HD" tvg-logo="https://dl.dropboxusercontent.com/s/8cgf4fid18x8dtv/SPACE.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_SPACE HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1903
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_SPACE SD" tvg-logo="https://dl.dropboxusercontent.com/s/8cgf4fid18x8dtv/SPACE.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_SPACE SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1567
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_STUDIO UNIVERSAL HD." tvg-logo="https://dl.dropboxusercontent.com/s/it1n3chgo35vmf8/STUDIOUNIVERSAL.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_STUDIO UNIVERSAL HD.
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2066
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_SUNDANCE CHANNEL HD" tvg-logo="https://dl.dropboxusercontent.com/s/qd05jm26eil9ytu/SUNDANCECHANNEL.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_SUNDANCE CHANNEL HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1912
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_TCM SD" tvg-logo="https://dl.dropboxusercontent.com/s/yby8pel7yhyetcw/TCM.png?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_TCM SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1844
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_TNT FHD" tvg-logo="https://dl.dropboxusercontent.com/s/guqa45bbg64xxy4/TNT.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_TNT FHD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1910
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_TNT SD" tvg-logo="https://dl.dropboxusercontent.com/s/guqa45bbg64xxy4/TNT.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_TNT SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1937
+#EXTINF:-1 tvg-id="" tvg-name="*PEL_UNIVERSAL." tvg-logo="https://dl.dropboxusercontent.com/s/nplsqpfswap7fou/UNIVERSAL.jpg?dl=0" group-title="CANALES DE PELICULAS PREMIUM",*PEL_UNIVERSAL.
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/1933
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 01 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 01 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78186
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 02 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 02 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78185
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 03 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 03 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78184
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 04 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 04 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78183
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 05 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 05 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78182
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 06 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 06 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78181
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 07 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 07 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78180
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 08 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 08 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78179
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 09 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 09 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78178
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 10 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 10 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78177
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 11 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 11 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78176
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 12 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 12 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78175
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 13 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 13 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78174
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 14 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 14 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78173
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 15 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 15 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78172
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 16 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 16 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78171
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 17 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 17 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78170
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 18 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 18 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78169
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 19 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 19 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78168
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 20 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 20 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78167
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 21 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 21 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78166
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 23 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 23 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78164
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 24 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 24 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78163
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 25 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 25 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78162
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 22 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 22 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78165
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 26 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 26 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78161
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 27 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 27 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78160
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 28 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 28 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78159
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 29 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 29 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78158
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 30 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 30 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78157
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 31 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 31 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78156
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 33 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 33 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78154
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 32 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 32 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78155
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 35 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 35 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78152
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 01 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 01 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85845
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 02 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 02 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85844
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 03 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 03 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85843
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 04 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 04 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85842
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 05 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 05 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85841
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 06 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 06 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85840
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 07 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 07 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85839
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 08 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 08 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85838
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 09 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 09 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85837
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 10 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 10 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85836
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 11 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 11 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85835
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 12 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 12 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85834
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 13 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 13 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85833
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 14 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 14 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85832
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 15 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 15 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85831
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 16 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 16 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85830
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 17 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 17 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85829
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 18 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 18 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85828
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 19 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 19 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85827
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 20 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 20 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85826
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 21 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 21 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85825
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 22 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 22 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85824
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 23 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 23 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85823
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 24 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 24 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85822
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 25 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 25 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85821
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 26 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 26 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85820
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 27 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 27 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85819
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 28 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 28 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85818
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 29 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 29 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85817
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 30 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 30 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85816
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 31 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 31 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85815
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 32 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 32 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85814
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 33 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 33 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85813
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 34 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 34 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85812
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 35 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 35 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85811
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 36 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 36 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85810
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Cinema 37 PPV" tvg-logo="" group-title="CINE PPV LATINO",LA_FHD:Cinema 37 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/85809
+#EXTINF:-1 tvg-id="" tvg-name="US_HD:Cinema 40 PPV" tvg-logo="" group-title="CINE PPV INGLES",US_HD:Cinema 40 PPV
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/92325
+#EXTINF:-1 tvg-id="" tvg-name="FREDDY VS JASON 4K" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81v5rCGzQoL._SL1440_.jpg" group-title="CINE PPV LATINO 4K ",FREDDY VS JASON 4K
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/88626
+#EXTINF:-1 tvg-id="" tvg-name="SPACE JAM  4K" tvg-logo="https://cdn.wallpapersafari.com/10/0/rn0iSv.jpg" group-title="CINE PPV LATINO 4K ",SPACE JAM  4K
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/88628
+#EXTINF:-1 tvg-id="" tvg-name="RAMPAGE 4K" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51aicBl3rIL.jpg" group-title="CINE PPV LATINO 4K ",RAMPAGE 4K
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/88622
+#EXTINF:-1 tvg-id="" tvg-name="THE MEG 4K" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/816XDWq8n2L._SX425_.jpg" group-title="CINE PPV LATINO 4K ",THE MEG 4K
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/88620
+#EXTINF:-1 tvg-id="" tvg-name="MULAN 2020 4K" tvg-logo="https://www.excelsior.com.mx/media//inside-the-note/pictures/2020/09/10/china_prohibe_a_los_medios_darle_publicidad_a_mulan_2_0.png" group-title="CINE PPV LATINO 4K ",MULAN 2020 4K
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/88621
+#EXTINF:-1 tvg-id="" tvg-name="PIXELES  4K" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/914FRjkuyHL._SX300_.jpg" group-title="CINE PPV LATINO 4K ",PIXELES  4K
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/88625
+#EXTINF:-1 tvg-id="" tvg-name="2012 4K" tvg-logo="https://i.pinimg.com/originals/16/01/2a/16012ad5bd6cdd6070360585ceb6de89.jpg" group-title="CINE PPV LATINO 4K ",2012 4K
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/88623
+#EXTINF:-1 tvg-id="" tvg-name="ALITA ANGEL DE BATALLA 4K" tvg-logo="https://i.pinimg.com/originals/a8/fc/5d/a8fc5d96a8ef205b5c61e93b5e95258a.jpg" group-title="CINE PPV LATINO 4K ",ALITA ANGEL DE BATALLA 4K
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/88624
+#EXTINF:-1 tvg-id="" tvg-name="MAZINGER Z  4K" tvg-logo="https://wallpapercave.com/wp/wp1906216.jpg" group-title="CINE PPV LATINO 4K ",MAZINGER Z  4K
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/88627

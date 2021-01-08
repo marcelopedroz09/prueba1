@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARG SD" tvg-logo="https://dl.dropboxusercontent.com/s/kzjegd2rueaolza/FOXSPORTS.png?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",FOX SPORTS ARG SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74424
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX SPORTS ARG HD" tvg-logo="https://dl.dropboxusercontent.com/s/kzjegd2rueaolza/FOXSPORTS.png?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",FOX SPORTS ARG HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/2070
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2 ARG HD" tvg-logo="https://dl.dropboxusercontent.com/s/6h9ioomtldahtvj/FOXSPORTS2.jpg?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",FOX SPORTS 2 ARG HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/22766
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 ARG SD" tvg-logo="https://dl.dropboxusercontent.com/s/j71nz4f8fs80wwz/FOXSPORTS3.png?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",FOX SPORTS 3 ARG SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74422
+
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX SPORTS 3 ARG HD" tvg-logo="https://dl.dropboxusercontent.com/s/j71nz4f8fs80wwz/FOXSPORTS3.png?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",FOX SPORTS 3 ARG HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/11431
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM SD" tvg-logo="https://dl.dropboxusercontent.com/s/bzkzl4omzfktyz5/foxsportspremium.png?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",FOX SPORTS PREMIUM SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/75729
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM HD" tvg-logo="https://dl.dropboxusercontent.com/s/bzkzl4omzfktyz5/foxsportspremium.png?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",FOX SPORTS PREMIUM HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/75731
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX/TNT SPORTS  3 MEGAS VEL" tvg-logo="" group-title="COPA CONMEBOL LIBERT/SUDAD",FOX/TNT SPORTS  3 MEGAS VEL
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/78659
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS SD" tvg-logo="https://dl.dropboxusercontent.com/s/k0sgpym93vmvqn6/tntsports.png?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",TNT SPORTS SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/48267
+
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS HD" tvg-logo="https://dl.dropboxusercontent.com/s/k0sgpym93vmvqn6/tntsports.png?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",TNT SPORTS HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/70513
+
+#EXTINF:-1 tvg-id="" tvg-name="TyC SPORTS  SD" tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/745c6-tyc2bsport.png" group-title="COPA CONMEBOL LIBERT/SUDAD",TyC SPORTS  SD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74351
+
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS HD" tvg-logo="https://fullcanaleshd.files.wordpress.com/2015/10/745c6-tyc2bsport.png" group-title="COPA CONMEBOL LIBERT/SUDAD",TYC SPORTS HD
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/75061
+
+#EXTINF:-1 tvg-id="" tvg-name="TyC SPORTS INTERNACIONAL" tvg-logo="https://www.partidosdehoyargentina.com/images/newchannels/sm_tycsportsinternacional.gif" group-title="COPA CONMEBOL LIBERT/SUDAD",TyC SPORTS INTERNACIONAL
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/68760
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:ESPN" tvg-logo="https://dl.dropboxusercontent.com/s/2d31gpl4zt8m5gh/ESPN.jpg?dl=0" group-title="COPA CONMEBOL LIBERT/SUDAD",*ARG_SD:ESPN
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74441
+
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:ESPN 3" tvg-logo="https://dl.dropboxusercontent.com/s/u85kx5v0deqqeah/ESPN3.png?dl=0" group-title="ARGENTINA SD",*ARG_SD:ESPN 3
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74439
+
+#EXTINF:-1 tvg-id="" tvg-name="*ARG_SD:ESPN +" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/18.png" group-title="ARGENTINA SD",*ARG_SD:ESPN +
+http://62.210.152.185:38953/PedrazaRuben/ExafHebEST/74465
+
